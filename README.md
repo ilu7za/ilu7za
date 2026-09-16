@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, my name is Luiza Matias >> README.md
-echo Hi, my name is Luiza Matias >> README.md
-echo Hi, my name is Luiza Matias
-Hi, my name is Luiza Matias
+Hi, my name is Luiza Matias 
